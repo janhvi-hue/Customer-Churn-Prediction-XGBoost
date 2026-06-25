@@ -30,16 +30,19 @@ A classification project to predict customer churn, with a focus on handling cla
 ## Screenshots
 
 ### ROC Curve
-![ROC Curve](screenshots/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ### Confusion Matrix
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### SHAP Summary Plot
-![SHAP Summary](screenshots/shap_summary.png)
+![SHAP Summary](shap_summary.png)
 
-### Feature Importance
-![Feature Importance](screenshots/feature_importance.png)
+### Churn Distribution 
+![Churn_Distribution](churn_distribution.png)
+
+### Churn Prediction
+![Churn_Prediction](churn_prediction.png)
 
 ## Dataset
 *(Add dataset source/link here)*
