@@ -33,7 +33,7 @@ A classification project to predict customer churn, with a focus on handling cla
 ![ROC Curve](roc_curve.png)
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](confusion_matrices.png)
 
 ### SHAP Summary Plot
 ![SHAP Summary](shap_summary.png)
@@ -41,8 +41,6 @@ A classification project to predict customer churn, with a focus on handling cla
 ### Churn Distribution 
 ![Churn_Distribution](churn_distribution.png)
 
-### Churn Prediction
-![Churn_Prediction](churn_prediction.png)
 
 ## Dataset
 *(Add dataset source/link here)*
