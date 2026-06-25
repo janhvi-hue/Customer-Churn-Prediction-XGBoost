@@ -43,4 +43,5 @@ A classification project to predict customer churn, with a focus on handling cla
 
 
 ## Dataset
-*(Add dataset source/link here)*
+[Telco Customer Churn dataset on Kaggle:
+](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
